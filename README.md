@@ -58,7 +58,7 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
-when connecting the positive and negative terminals of the battery and connecting the positive and negative terminals of the battery pack to the  multimeter it shows the current flow value is 1.5 V. 
+when connecting the positive and negative terminals of the battery and connecting the positive and negative terminals of the battery pack to the  multimeter, it shows the current flow value is 1.5 V. 
 
 ```
 ### 3.	Simulation 3: Simulating a simple electric circuit
